@@ -130,7 +130,6 @@
                   <input type="submit" class="readmore d-block w-100" value="Send Message">
                 </div>
 
-            </form>
 
           </div>
           
@@ -143,8 +142,6 @@
               </li>
             </ul>
           </div>
-
-        </div>
 
   <!-- End #main -->
 
