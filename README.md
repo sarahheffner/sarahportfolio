@@ -83,7 +83,7 @@
             <h2>Portfolio</h2>
 
           <div class="col-md-7 mb-5 mb-md-0" data-aos="fade-up">
-            <p><img src="assets/img/person_1_sq.jpg" alt="Image" class="img-fluid"></p>
+            <p><img src="assets/img/1_F O I L _2.JPG" alt="foil" class="img-fluid"></p>
             <p><img src="assets/img/person_1_sq.jpg" alt="Image" class="img-fluid"></p>
             <p><img src="assets/img/person_1_sq.jpg" alt="Image" class="img-fluid"></p>
             <p><img src="assets/img/person_1_sq.jpg" alt="Image" class="img-fluid"></p>
