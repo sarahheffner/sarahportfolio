@@ -92,9 +92,7 @@
 
       </div>
 
-    </section>
-
-  </main><!-- End #main -->
+  <!-- End #main -->
 
   <!-- ======= Footer ======= -->
   <footer class="footer" role="contentinfo">
@@ -133,7 +131,3 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-
-</body>
-
-</html>
