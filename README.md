@@ -104,17 +104,24 @@
                   <label for="name">Name</label>
                   <input type="text" name="name" class="form-control" id="name" required="">
                 </div>
+                </div>
+                
                 <div class="col-md-6 form-group">
                   <label for="name">Email</label>
                   <input type="email" class="form-control" name="email" id="email" required="">
                 </div>
+                </div>
+                
                 <div class="col-md-12 form-group">
                   <label for="name">Subject</label>
                   <input type="text" class="form-control" name="subject" id="subject" required="">
                 </div>
+                </div>
+                
                 <div class="col-md-12 form-group">
                   <label for="name">Message</label>
                   <textarea class="form-control" name="message" cols="30" rows="10" required=""></textarea>
+                </div>
                 </div>
 
                 <div class="col-md-12 my-3">
@@ -131,20 +138,14 @@
             </form>
 
           </div>
+          </div>
+          
 
           <div class="col-md-4 ml-auto order-2 aos-init aos-animate" data-aos="fade-up">
             <ul class="list-unstyled">
               <li class="mb-3">
-                <strong class="d-block mb-1">Address</strong>
-                <span>203 Fake St. Mountain View, San Francisco, California, USA</span>
-              </li>
-              <li class="mb-3">
-                <strong class="d-block mb-1">Phone</strong>
-                <span>+1 232 3235 324</span>
-              </li>
-              <li class="mb-3">
                 <strong class="d-block mb-1">Email</strong>
-                <span>youremail@domain.com</span>
+                <span>heffner.h.sarah@gmail.com</span>
               </li>
             </ul>
           </div>
