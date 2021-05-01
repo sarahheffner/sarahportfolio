@@ -104,24 +104,20 @@
                   <label for="name">Name</label>
                   <input type="text" name="name" class="form-control" id="name" required="">
                 </div>
-                </div>
                 
                 <div class="col-md-6 form-group">
                   <label for="name">Email</label>
                   <input type="email" class="form-control" name="email" id="email" required="">
-                </div>
                 </div>
                 
                 <div class="col-md-12 form-group">
                   <label for="name">Subject</label>
                   <input type="text" class="form-control" name="subject" id="subject" required="">
                 </div>
-                </div>
                 
                 <div class="col-md-12 form-group">
                   <label for="name">Message</label>
                   <textarea class="form-control" name="message" cols="30" rows="10" required=""></textarea>
-                </div>
                 </div>
 
                 <div class="col-md-12 my-3">
@@ -133,11 +129,9 @@
                 <div class="col-md-6 mt-0 form-group">
                   <input type="submit" class="readmore d-block w-100" value="Send Message">
                 </div>
-              </div>
 
             </form>
 
-          </div>
           </div>
           
 
