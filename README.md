@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Sarah Heffner - About</title>
+  <title> Sarah Heffner - About</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -43,8 +43,7 @@
           <ul class="custom-menu">
             <li><a href="index.html">Home</a></li>
             <li class="active"><a href="about.html">About Me</a></li>
-            <li><a href="services.html">Services</a></li>
-            <li><a href="works.html">Works</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
             <li><a href="contact.html">Contact</a></li>
           </ul>
         </div>
@@ -52,13 +51,11 @@
           <div class="tweet d-flex">
             <span class="bi bi-twitter text-white mt-2 mr-3"></span>
             <div>
-              <p><em>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam necessitatibus incidunt ut officiis explicabo inventore. <br> <a href="#">t.co/v82jsk</a></em></p>
+              <p><em> <br> <a href="#">t.co/v82jsk</a></em></p>
             </div>
           </div>
         </div>
         <div class="col-md-4 d-none d-md-block">
-          <h3>Hire Me</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam necessitatibus incidunt ut officiisexplicabo inventore. <br> <a href="#">myemail@gmail.com</a></p>
         </div>
       </div>
 
@@ -82,8 +79,7 @@
           <div class="col-md-6" data-aos="fade-up">
 
             <h2>About Me</h2>
-            <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam necessitatibus incidunt ut
-              officiis explicabo inventore.</p>
+            <p class="mb-0">Hi! My name is Sarah and I'm an aspiring photographer and filmographer.</p>
           </div>
 
         </div>
