@@ -152,6 +152,23 @@
         <div class="col-sm-6">
           <p class="mb-1">&copy; Copyright MyPortfolio. All Rights Reserved</p>
           <div class="credits">
+            
+           <footer class="footer" role="contentinfo">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+          <p class="mb-1">© Copyright MyPortfolio. All Rights Reserved</p>
+          <div class="credits">
+        <div class="col-sm-6 social text-md-end">
+          <a href="#"><span class="bi bi-twitter"></span></a>
+          <a href="#"><span class="bi bi-facebook"></span></a>
+          <a href="#"><span class="bi bi-instagram"></span></a>
+          <a href="#"><span class="bi bi-linkedin"></span></a>
+        </div>
+      </div>
+    </div>
+  </footer>
+  
             <!--
             All the links in the footer should remain intact.
             You can delete the links only if you purchased the pro version.
